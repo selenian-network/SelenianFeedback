@@ -7,7 +7,7 @@ This public repository is built for those who test our module to report any prob
 1. Visit our test environment [test.selenian.network](http://test.selenian.network).
 2. Open your KEPLR wallet, connect to the 'pulsar test' network.
 3. Click on the <faucet_page> button, then you will be redirected to the facuet page. Claim your faucets.
-4. After getting the facuets, get back to [our module](http://test.selenian.network).
+4. After getting the faucets, get back to [our module](http://test.selenian.network).
 5. Enter the amount of test $SCRT you want to stake, then click on the "Submit" button.
 6. After confirming the transaction through your KEPLR wallet, you are going to get your test $dSCRT's.
 
