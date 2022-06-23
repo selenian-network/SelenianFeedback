@@ -1,6 +1,6 @@
 # Selenian Network | Staking Derivative Module - Public Test Environment
 
-This public repository is built for those who test our module to report the problem they face or give some feedbacks via initializing an issue.
+This public repository is built for those who test our module to report any problem they face or give some feedbacks via initializing an issue.
 
 ## Tutorial
 
